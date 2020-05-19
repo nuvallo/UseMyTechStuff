@@ -1,0 +1,23 @@
+{
+  "name": "usemytechstuff",
+  "version": "1.0.0",
+  "description": "Rent tech equipment from real people",
+  "main": "index.js",
+  "scripts": {
+    "npm start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuvallo/UseMyTechStuff.git"
+  },
+  "author": "Tyler Miller (nuvallo)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuvallo/UseMyTechStuff/issues"
+  },
+  "homepage": "https://github.com/nuvallo/UseMyTechStuff#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
